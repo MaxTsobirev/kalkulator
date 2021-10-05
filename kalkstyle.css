@@ -1,0 +1,16 @@
+fieldset
+{
+    background-color: lightblue;
+    width:60%;
+    border: solid 1px;
+    border-radius:50px;
+    padding: 2%;
+    position: center;
+}
+input[type=number]{
+    width: 50px;
+    background-color: lightblue;
+}
+body{
+    background-color: lightskyblue;
+}
